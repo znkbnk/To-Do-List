@@ -15,3 +15,4 @@ Step 5: Define the markTaskComplete function to mark a task as complete in the l
 
 Step 6: Add a checkbox to each task to allow the user to mark it as complete. We'll add a new property to each task in our tasks state to keep track of whether it's complete or not, and toggle that property when the checkbox is clicked.
 
+To use this component, you can import it into your main App.js file and render it.
